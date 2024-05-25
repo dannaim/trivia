@@ -64,13 +64,27 @@ document.addEventListener("DOMContentLoaded", function () {
         const correctAnswer = words[currentQuestionIndex].hebrew;
         if (selectedAnswer === correctAnswer) {
             streak++;
-            alert("Correct!");
+            // Display feedback to the user for correct answer
+            const feedbackElement = document.getElementById('feedback');
+            if (feedbackElement) {
+                feedbackElement.textContent = "Correct!";
+                feedbackElement.style.color = "green";
+            }
         } else {
             streak = 0;
-            alert("Incorrect. The correct answer is: " + correctAnswer);
+            // Display feedback to the user for incorrect answer
+            const feedbackElement = document.getElementById('feedback');
+            if (feedbackElement) {
+                feedbackElement.textContent = "Incorrect. The hebrew word for " + 
+                words[currentQuestionIndex].english + " is: " + correctAnswe;
+                
+                feedbackElement.style.color = "red";
+            }
         }
         displayQuestion();
-        strikeElement.textContent = "Strikes: " + streak;
+        if (strikeElement) {
+            strikeElement.textContent = "Streak: " + streak;
+        }
     }
 
     // Function to pronounce the current word

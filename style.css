@@ -49,4 +49,16 @@ body {
     background-color: #dc3545;
     /* Set the background color */
     --timer-width: 100%;
-};
+}
+
+#feedback {
+    text-align: center;
+    font-size: 2em;
+    color: #333;
+    animation: fade-in 1s ease-in-out;
+
+}
+#bolded{
+    font-weight: bold;
+}
+;
