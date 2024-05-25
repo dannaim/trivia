@@ -1,0 +1,2366 @@
+[
+    {
+        "english": "violin",
+        "hebrew": "כינור"
+    },
+    {
+        "english": "violinist",
+        "hebrew": "כנר"
+    },
+    {
+        "english": "visit",
+        "hebrew": "לנקר"
+    },
+    {
+        "english": "volleyball",
+        "hebrew": "כדור-עף"
+    },
+    {
+        "english": "wait",
+        "hebrew": "לחכות"
+    },
+    {
+        "english": "wake up",
+        "hebrew": "להתעורר"
+    },
+    {
+        "english": "walk",
+        "hebrew": "ללכת (ברגל)"
+    },
+    {
+        "english": "wall",
+        "hebrew": "קיר, חומה"
+    },
+    {
+        "english": "want",
+        "hebrew": "לרצות"
+    },
+    {
+        "english": "warm",
+        "hebrew": "חמים"
+    },
+    {
+        "english": "was",
+        "hebrew": "היה"
+    },
+    {
+        "english": "wash",
+        "hebrew": "לרחוץ"
+    },
+    {
+        "english": "watch",
+        "hebrew": "לצפות ב-"
+    },
+    {
+        "english": "water",
+        "hebrew": "מים"
+    },
+    {
+        "english": "way",
+        "hebrew": "דרך, כיוון"
+    },
+    {
+        "english": "we",
+        "hebrew": "אנחנו"
+    },
+    {
+        "english": "wear",
+        "hebrew": "ללבוש"
+    },
+    {
+        "english": "weather",
+        "hebrew": "מזג אוויר"
+    },
+    {
+        "english": "website",
+        "hebrew": "אתר אינטרנט"
+    },
+    {
+        "english": "Wednesday",
+        "hebrew": "יום רביעי"
+    },
+    {
+        "english": "week",
+        "hebrew": "שבוע"
+    },
+    {
+        "english": "weekend",
+        "hebrew": "סוף שבוע"
+    },
+    {
+        "english": "welcome",
+        "hebrew": "ברוכים הבאים"
+    },
+    {
+        "english": "were",
+        "hebrew": "היו"
+    },
+    {
+        "english": "what",
+        "hebrew": "מה"
+    },
+    {
+        "english": "when",
+        "hebrew": "מתי, כאשר"
+    },
+    {
+        "english": "where",
+        "hebrew": "איפה"
+    },
+    {
+        "english": "which",
+        "hebrew": "איזה"
+    },
+    {
+        "english": "who",
+        "hebrew": "מי"
+    },
+    {
+        "english": "why",
+        "hebrew": "למה"
+    },
+    {
+        "english": "win",
+        "hebrew": "לנצח"
+    },
+    {
+        "english": "wind",
+        "hebrew": "רוח"
+    },
+    {
+        "english": "window",
+        "hebrew": "חלון"
+    },
+    {
+        "english": "while",
+        "hebrew": "בזמן ש-"
+    },
+    {
+        "english": "white",
+        "hebrew": "לבן"
+    },
+    {
+        "english": "whole",
+        "hebrew": "שלם"
+    },
+    {
+        "english": "tennis",
+        "hebrew": "טניס"
+    },
+    {
+        "english": "tent",
+        "hebrew": "אוהל"
+    },
+    {
+        "english": "test",
+        "hebrew": "מבחן"
+    },
+    {
+        "english": "text",
+        "hebrew": "טקסט, קטע"
+    },
+    {
+        "english": "Thailand",
+        "hebrew": "תאילנד"
+    },
+    {
+        "english": "than",
+        "hebrew": "- (n)"
+    },
+    {
+        "english": "thank you",
+        "hebrew": "תודה"
+    },
+    {
+        "english": "thanks",
+        "hebrew": "תודה"
+    },
+    {
+        "english": "that",
+        "hebrew": "ההוא, ההיא"
+    },
+    {
+        "english": "the end",
+        "hebrew": "הסוף, הקצה"
+    },
+    {
+        "english": "the same",
+        "hebrew": "נכון, אמת"
+    },
+    {
+        "english": "theater",
+        "hebrew": "תיאטרון"
+    },
+    {
+        "english": "their",
+        "hebrew": "שלהם, שלהן"
+    },
+    {
+        "english": "them",
+        "hebrew": "אותם, אותן"
+    },
+    {
+        "english": "then",
+        "hebrew": "אחר כך"
+    },
+    {
+        "english": "there",
+        "hebrew": "שם"
+    },
+    {
+        "english": "there are",
+        "hebrew": "יש"
+    },
+    {
+        "english": "there is",
+        "hebrew": "יש"
+    },
+    {
+        "english": "these",
+        "hebrew": "אלה"
+    },
+    {
+        "english": "they",
+        "hebrew": "הם, הן"
+    },
+    {
+        "english": "thief",
+        "hebrew": "גנב"
+    },
+    {
+        "english": "thin",
+        "hebrew": "רזה"
+    },
+    {
+        "english": "thing",
+        "hebrew": "דבר"
+    },
+    {
+        "english": "think",
+        "hebrew": "לחשוב"
+    },
+    {
+        "english": "thirsty",
+        "hebrew": "צמא"
+    },
+    {
+        "english": "thirteen",
+        "hebrew": "שלוש עשרה"
+    },
+    {
+        "english": "thirty",
+        "hebrew": "שלושים"
+    },
+    {
+        "english": "this",
+        "hebrew": "זה, הזה"
+    },
+    {
+        "english": "thousand",
+        "hebrew": "אלף"
+    },
+    {
+        "english": "three",
+        "hebrew": "שלוש"
+    },
+    {
+        "english": "throw",
+        "hebrew": "לזרוק"
+    },
+    {
+        "english": "throw away",
+        "hebrew": "להשליך לפח"
+    },
+    {
+        "english": "Thursday",
+        "hebrew": "יום חמישי"
+    },
+    {
+        "english": "ticket",
+        "hebrew": "כרטיס"
+    },
+    {
+        "english": "time",
+        "hebrew": "זמן, שעה, פעם"
+    },
+    {
+        "english": "tired",
+        "hebrew": "עייף"
+    },
+    {
+        "english": "to",
+        "hebrew": "ל-, אל"
+    },
+    {
+        "english": "today",
+        "hebrew": "היום"
+    },
+    {
+        "english": "together",
+        "hebrew": "ביחד"
+    },
+    {
+        "english": "toilet",
+        "hebrew": "שירותים"
+    },
+    {
+        "english": "tomorrow",
+        "hebrew": "מחר"
+    },
+    {
+        "english": "strange",
+        "hebrew": "מוזר"
+    },
+    {
+        "english": "strong",
+        "hebrew": "קש"
+    },
+    {
+        "english": "strawberry",
+        "hebrew": "תות שדה"
+    },
+    {
+        "english": "street",
+        "hebrew": "רחוב"
+    },
+    {
+        "english": "success",
+        "hebrew": "הצלחה"
+    },
+    {
+        "english": "sugar",
+        "hebrew": "סוכר"
+    },
+    {
+        "english": "summer",
+        "hebrew": "קיץ"
+    },
+    {
+        "english": "sun",
+        "hebrew": "שכוש"
+    },
+    {
+        "english": "Sunday",
+        "hebrew": "יום ראשון"
+    },
+    {
+        "english": "supper",
+        "hebrew": "ארוחת ערב"
+    },
+    {
+        "english": "sweet",
+        "hebrew": "מתוק"
+    },
+    {
+        "english": "wing",
+        "hebrew": "כנף"
+    },
+    {
+        "english": "winner",
+        "hebrew": "מנצח"
+    },
+    {
+        "english": "winter",
+        "hebrew": "חורף"
+    },
+    {
+        "english": "wise",
+        "hebrew": "חכם"
+    },
+    {
+        "english": "witch",
+        "hebrew": "מכשפה"
+    },
+    {
+        "english": "with",
+        "hebrew": "עם"
+    },
+    {
+        "english": "without",
+        "hebrew": "בלי, ללא"
+    },
+    {
+        "english": "woman",
+        "hebrew": "אישה"
+    },
+    {
+        "english": "wood",
+        "hebrew": "עץ"
+    },
+    {
+        "english": "word",
+        "hebrew": "מילה"
+    },
+    {
+        "english": "work",
+        "hebrew": "עבודה"
+    },
+    {
+        "english": "workbook",
+        "hebrew": "חוברת עבודה"
+    },
+    {
+        "english": "world",
+        "hebrew": "עולם"
+    },
+    {
+        "english": "worry",
+        "hebrew": "לדאוג"
+    },
+    {
+        "english": "worst",
+        "hebrew": "הכי גרוע"
+    },
+    {
+        "english": "write",
+        "hebrew": "לכתוב"
+    },
+    {
+        "english": "writer",
+        "hebrew": "כותב"
+    },
+    {
+        "english": "wrong",
+        "hebrew": "טועה"
+    },
+    {
+        "english": "year",
+        "hebrew": "שנה"
+    },
+    {
+        "english": "yellow",
+        "hebrew": "צהוב"
+    },
+    {
+        "english": "yes",
+        "hebrew": "כן"
+    },
+    {
+        "english": "you",
+        "hebrew": "אתה, את, אתם, אתן"
+    },
+    {
+        "english": "young",
+        "hebrew": "צעיר"
+    },
+    {
+        "english": "youngest",
+        "hebrew": "הכי צעיר"
+    },
+    {
+        "english": "your",
+        "hebrew": "שלך, שלכם, שלכן"
+    },
+    {
+        "english": "you're welcome",
+        "hebrew": "על לא דבר"
+    },
+    {
+        "english": "zebra",
+        "hebrew": "זברה"
+    },
+    {
+        "english": "next",
+        "hebrew": "הבא"
+    },
+    {
+        "english": "nice",
+        "hebrew": "נחמד"
+    },
+    {
+        "english": "night",
+        "hebrew": "לילה"
+    },
+    {
+        "english": "nine",
+        "hebrew": "תשע"
+    },
+    {
+        "english": "nineteen",
+        "hebrew": "תשע עשרה"
+    },
+    {
+        "english": "ninety",
+        "hebrew": "תשעים"
+    },
+    {
+        "english": "no",
+        "hebrew": "לא"
+    },
+    {
+        "english": "noise",
+        "hebrew": "רעש"
+    },
+    {
+        "english": "north",
+        "hebrew": "צפון"
+    },
+    {
+        "english": "nose",
+        "hebrew": "אף"
+    },
+    {
+        "english": "not",
+        "hebrew": "לא"
+    },
+    {
+        "english": "notebook",
+        "hebrew": "מחברת"
+    },
+    {
+        "english": "notice",
+        "hebrew": "לשים לב, מודעה"
+    },
+    {
+        "english": "November",
+        "hebrew": "נובמבר"
+    },
+    {
+        "english": "now",
+        "hebrew": "עכשיו"
+    },
+    {
+        "english": "number",
+        "hebrew": "מספר"
+    },
+    {
+        "english": "nut",
+        "hebrew": "אגוז"
+    },
+    {
+        "english": "o'clock",
+        "hebrew": "שעה"
+    },
+    {
+        "english": "October",
+        "hebrew": "אוקטובר"
+    },
+    {
+        "english": "of",
+        "hebrew": "של"
+    },
+    {
+        "english": "OK",
+        "hebrew": "אוקיי"
+    },
+    {
+        "english": "old",
+        "hebrew": "ישן, זקן, מבוגר"
+    },
+    {
+        "english": "older",
+        "hebrew": "ישן יותר"
+    },
+    {
+        "english": "oldest",
+        "hebrew": "הכי מבוגר"
+    },
+    {
+        "english": "on",
+        "hebrew": "על"
+    },
+    {
+        "english": "once",
+        "hebrew": "פעם אחת"
+    },
+    {
+        "english": "one",
+        "hebrew": "אחת"
+    },
+    {
+        "english": "onion",
+        "hebrew": "בצל"
+    },
+    {
+        "english": "only",
+        "hebrew": "רק"
+    },
+    {
+        "english": "onto",
+        "hebrew": "על"
+    },
+    {
+        "english": "open",
+        "hebrew": "לפתוח"
+    },
+    {
+        "english": "or",
+        "hebrew": "או"
+    },
+    {
+        "english": "orange",
+        "hebrew": "תפוז"
+    },
+    {
+        "english": "other",
+        "hebrew": "אחר"
+    },
+    {
+        "english": "our",
+        "hebrew": "שלנו"
+    },
+    {
+        "english": "outside",
+        "hebrew": "בחוץ"
+    },
+    {
+        "english": "over",
+        "hebrew": "על"
+    },
+    {
+        "english": "page",
+        "hebrew": "עמוד"
+    },
+    {
+        "english": "paint",
+        "hebrew": "לצייר, לצבוע"
+    },
+    {
+        "english": "painting",
+        "hebrew": "ציור"
+    },
+    {
+        "english": "pair",
+        "hebrew": "זוג"
+    },
+    {
+        "english": "pajamas",
+        "hebrew": "פיג'מה"
+    },
+    {
+        "english": "pancake",
+        "hebrew": "פנקייק"
+    },
+    {
+        "english": "panda",
+        "hebrew": "פנדה"
+    },
+    {
+        "english": "paper",
+        "hebrew": "נייר"
+    },
+    {
+        "english": "parents",
+        "hebrew": "הורים"
+    },
+    {
+        "english": "park",
+        "hebrew": "פארק"
+    },
+    {
+        "english": "part",
+        "hebrew": "חלק"
+    },
+    {
+        "english": "partner",
+        "hebrew": "חבר, בן זוג"
+    },
+    {
+        "english": "party",
+        "hebrew": "מסיבה"
+    },
+    {
+        "english": "pasta",
+        "hebrew": "פסטה"
+    },
+    {
+        "english": "peach",
+        "hebrew": "אפרסק"
+    },
+    {
+        "english": "pear",
+        "hebrew": "אגס"
+    },
+    {
+        "english": "pen",
+        "hebrew": "עט"
+    },
+    {
+        "english": "pencil",
+        "hebrew": "עפרון"
+    },
+    {
+        "english": "penguin",
+        "hebrew": "פנגווין"
+    },
+    {
+        "english": "people",
+        "hebrew": "אנשים"
+    },
+    {
+        "english": "perfect",
+        "hebrew": "מושלם"
+    },
+    {
+        "english": "person",
+        "hebrew": "אדם"
+    },
+    {
+        "english": "pet",
+        "hebrew": "חיית מחמד"
+    },
+    {
+        "english": "photo",
+        "hebrew": "תמונה"
+    },
+    {
+        "english": "piano",
+        "hebrew": "פסנתר"
+    },
+    {
+        "english": "pick",
+        "hebrew": "לבחור"
+    },
+    {
+        "english": "picnic",
+        "hebrew": "פיקניק"
+    },
+    {
+        "english": "picture",
+        "hebrew": "תמונה"
+    },
+    {
+        "english": "pie",
+        "hebrew": "עוגה"
+    },
+    {
+        "english": "piece",
+        "hebrew": "חתיכה"
+    },
+    {
+        "english": "pig",
+        "hebrew": "חזיר"
+    },
+    {
+        "english": "pillow",
+        "hebrew": "כרית"
+    },
+    {
+        "english": "pink",
+        "hebrew": "ורוד"
+    },
+    {
+        "english": "pizza",
+        "hebrew": "פיצה"
+    },
+    {
+        "english": "place",
+        "hebrew": "מקום"
+    },
+    {
+        "english": "plane",
+        "hebrew": "מטוס"
+    },
+    {
+        "english": "plant",
+        "hebrew": "צמח"
+    },
+    {
+        "english": "plate",
+        "hebrew": "צלחת"
+    },
+    {
+        "english": "play",
+        "hebrew": "לשחק"
+    },
+    {
+        "english": "please",
+        "hebrew": "בבקשה"
+    },
+    {
+        "english": "pleased",
+        "hebrew": "שמח"
+    },
+    {
+        "english": "pocket",
+        "hebrew": "כיס"
+    },
+    {
+        "english": "point",
+        "hebrew": "נקודה, להצביע, לציין"
+    },
+    {
+        "english": "poison",
+        "hebrew": "רעל"
+    },
+    {
+        "english": "police",
+        "hebrew": "משטרה"
+    },
+    {
+        "english": "policeman",
+        "hebrew": "שוטר"
+    },
+    {
+        "english": "pool",
+        "hebrew": "בריכה"
+    },
+    {
+        "english": "poor",
+        "hebrew": "עני"
+    },
+    {
+        "english": "popcorn",
+        "hebrew": "תירס"
+    },
+    {
+        "english": "post office",
+        "hebrew": "דואר"
+    },
+    {
+        "english": "potato",
+        "hebrew": "תפוח אדמה"
+    },
+    {
+        "english": "present",
+        "hebrew": "מתנה"
+    },
+    {
+        "english": "pretty",
+        "hebrew": "יפה"
+    },
+    {
+        "english": "price",
+        "hebrew": "מחיר"
+    },
+    {
+        "english": "prince",
+        "hebrew": "נסיך"
+    },
+    {
+        "english": "princess",
+        "hebrew": "נסיכה"
+    },
+    {
+        "english": "problem",
+        "hebrew": "בעיה"
+    },
+    {
+        "english": "purple",
+        "hebrew": "סגול"
+    },
+    {
+        "english": "purse",
+        "hebrew": "ארנק"
+    },
+    {
+        "english": "question",
+        "hebrew": "שאלה"
+    },
+    {
+        "english": "quick",
+        "hebrew": "מהיר"
+    },
+    {
+        "english": "quiet",
+        "hebrew": "שקט"
+    },
+    {
+        "english": "rabbit",
+        "hebrew": "ארנבת"
+    },
+    {
+        "english": "race",
+        "hebrew": "מירוץ"
+    },
+    {
+        "english": "rain",
+        "hebrew": "גשם"
+    },
+    {
+        "english": "rainbow",
+        "hebrew": "קשת"
+    },
+    {
+        "english": "raincoat",
+        "hebrew": "מעיל גשם"
+    },
+    {
+        "english": "rainy",
+        "hebrew": "גשום"
+    },
+    {
+        "english": "raise",
+        "hebrew": "להרים"
+    },
+    {
+        "english": "read",
+        "hebrew": "לקרוא"
+    },
+    {
+        "english": "ready",
+        "hebrew": "מוכן"
+    },
+    {
+        "english": "really",
+        "hebrew": "באמת"
+    },
+    {
+        "english": "red",
+        "hebrew": "אדום"
+    },
+    {
+        "english": "remember",
+        "hebrew": "לזכור"
+    },
+    {
+        "english": "restaurant",
+        "hebrew": "מסעדה"
+    },
+    {
+        "english": "return",
+        "hebrew": "להחזיר"
+    },
+    {
+        "english": "right",
+        "hebrew": "נכון, ימין"
+    },
+    {
+        "english": "river",
+        "hebrew": "נהר"
+    },
+    {
+        "english": "road",
+        "hebrew": "דרך"
+    },
+    {
+        "english": "robot",
+        "hebrew": "רובוט"
+    },
+    {
+        "english": "rock",
+        "hebrew": "סלע"
+    },
+    {
+        "english": "rocket",
+        "hebrew": "רקטה"
+    },
+    {
+        "english": "rooster",
+        "hebrew": "תרנגול"
+    },
+    {
+        "english": "room",
+        "hebrew": "חדר"
+    },
+    {
+        "english": "rope",
+        "hebrew": "חבל"
+    },
+    {
+        "english": "rose",
+        "hebrew": "ורד"
+    },
+    {
+        "english": "round",
+        "hebrew": "עגול"
+    },
+    {
+        "english": "rug",
+        "hebrew": "שטיח"
+    },
+    {
+        "english": "rule",
+        "hebrew": "חוק"
+    },
+    {
+        "english": "run",
+        "hebrew": "לרוץ"
+    },
+    {
+        "english": "sad",
+        "hebrew": "עצוב"
+    },
+    {
+        "english": "safe",
+        "hebrew": "בטוח"
+    },
+    {
+        "english": "sail",
+        "hebrew": "לשוט"
+    },
+    {
+        "english": "salad",
+        "hebrew": "סלט"
+    },
+    {
+        "english": "salt",
+        "hebrew": "מלח"
+    },
+    {
+        "english": "same",
+        "hebrew": "אותו"
+    },
+    {
+        "english": "sand",
+        "hebrew": "חול"
+    },
+    {
+        "english": "sandwich",
+        "hebrew": "סנדוויץ'"
+    },
+    {
+        "english": "Saturday",
+        "hebrew": "יום שבת"
+    },
+    {
+        "english": "sauce",
+        "hebrew": "רוטב"
+    },
+    {
+        "english": "say",
+        "hebrew": "לומר"
+    },
+    {
+        "english": "scarf",
+        "hebrew": "צעיף"
+    },
+    {
+        "english": "school",
+        "hebrew": "בית ספר"
+    },
+    {
+        "english": "science",
+        "hebrew": "מדע"
+    },
+    {
+        "english": "scissors",
+        "hebrew": "מספריים"
+    },
+    {
+        "english": "screen",
+        "hebrew": "מסך"
+    },
+    {
+        "english": "sea",
+        "hebrew": "ים"
+    },
+    {
+        "english": "seal",
+        "hebrew": "ציפור ים"
+    },
+    {
+        "english": "season",
+        "hebrew": "עונה"
+    },
+    {
+        "english": "seat",
+        "hebrew": "מושב"
+    },
+    {
+        "english": "second",
+        "hebrew": "שני"
+    },
+    {
+        "english": "secret",
+        "hebrew": "סוד"
+    },
+    {
+        "english": "see",
+        "hebrew": "לראות"
+    },
+    {
+        "english": "seed",
+        "hebrew": "זרע"
+    },
+    {
+        "english": "seem",
+        "hebrew": "נראה"
+    },
+    {
+        "english": "sell",
+        "hebrew": "למכור"
+    },
+    {
+        "english": "send",
+        "hebrew": "לשלוח"
+    },
+    {
+        "english": "September",
+        "hebrew": "ספטמבר"
+    },
+    {
+        "english": "serious",
+        "hebrew": "רציני"
+    },
+    {
+        "english": "serve",
+        "hebrew": "לשרת"
+    },
+    {
+        "english": "set",
+        "hebrew": "לקבוע"
+    },
+    {
+        "english": "seven",
+        "hebrew": "שבע"
+    },
+    {
+        "english": "seventeen",
+        "hebrew": "שבעה עשר"
+    },
+    {
+        "english": "seventy",
+        "hebrew": "שבעים"
+    },
+    {
+        "english": "several",
+        "hebrew": "מספר רב של, כמה"
+    },
+    {
+        "english": "sew",
+        "hebrew": "לתפור"
+    },
+    {
+        "english": "sewing",
+        "hebrew": "תפירה"
+    },
+    {
+        "english": "sex",
+        "hebrew": "מין"
+    },
+    {
+        "english": "shadow",
+        "hebrew": "צל"
+    },
+    {
+        "english": "shake",
+        "hebrew": "לרעוד, להרעיף, לנער"
+    },
+    {
+        "english": "shampoo",
+        "hebrew": "שמפו"
+    },
+    {
+        "english": "shape",
+        "hebrew": "צורה"
+    },
+    {
+        "english": "share",
+        "hebrew": "לחלוק"
+    },
+    {
+        "english": "shark",
+        "hebrew": "כריש"
+    },
+    {
+        "english": "sharp",
+        "hebrew": "חד"
+    },
+    {
+        "english": "shave",
+        "hebrew": "להתגלח"
+    },
+    {
+        "english": "she",
+        "hebrew": "היא"
+    },
+    {
+        "english": "sheep",
+        "hebrew": "כבשה"
+    },
+    {
+        "english": "shell",
+        "hebrew": "קליפה, ביצה"
+    },
+    {
+        "english": "shine",
+        "hebrew": "לזרוק אור, לזרוק ברק, להניף, להאיר"
+    },
+    {
+        "english": "ship",
+        "hebrew": "ספינה"
+    },
+    {
+        "english": "shirt",
+        "hebrew": "חולצה"
+    },
+    {
+        "english": "shoe",
+        "hebrew": "נעל"
+    },
+    {
+        "english": "shoot",
+        "hebrew": "לירות"
+    },
+    {
+        "english": "shop",
+        "hebrew": "חנות"
+    },
+    {
+        "english": "shopping",
+        "hebrew": "קניות"
+    },
+    {
+        "english": "shore",
+        "hebrew": "חוף"
+    },
+    {
+        "english": "short",
+        "hebrew": "קצר"
+    },
+    {
+        "english": "should",
+        "hebrew": "אמור"
+    },
+    {
+        "english": "shoulder",
+        "hebrew": "כתף"
+    },
+    {
+        "english": "shout",
+        "hebrew": "לצעוק"
+    },
+    {
+        "english": "show",
+        "hebrew": "להראות"
+    },
+    {
+        "english": "shower",
+        "hebrew": "מקלחת"
+    },
+    {
+        "english": "shut",
+        "hebrew": "לסגור"
+    },
+    {
+        "english": "sick",
+        "hebrew": "חולה"
+    },
+    {
+        "english": "side",
+        "hebrew": "צד"
+    },
+    {
+        "english": "sign",
+        "hebrew": "לחתום"
+    },
+    {
+        "english": "silence",
+        "hebrew": "שקט"
+    },
+    {
+        "english": "silent",
+        "hebrew": "שקט"
+    },
+    {
+        "english": "silver",
+        "hebrew": "כסף"
+    },
+    {
+        "english": "simple",
+        "hebrew": "פשוט"
+    },
+    {
+        "english": "sing",
+        "hebrew": "לשיר"
+    },
+    {
+        "english": "sink",
+        "hebrew": "לטבוע"
+    },
+    {
+        "english": "sister",
+        "hebrew": "אחות"
+    },
+    {
+        "english": "sit",
+        "hebrew": "לשבת"
+    },
+    {
+        "english": "six",
+        "hebrew": "שש"
+    },
+    {
+        "english": "sixteen",
+        "hebrew": "ששה עשר"
+    },
+    {
+        "english": "sixty",
+        "hebrew": "שישים"
+    },
+    {
+        "english": "skate",
+        "hebrew": "לרכב על סקייט"
+    },
+    {
+        "english": "skateboard",
+        "hebrew": "סקייטבורד"
+    },
+    {
+        "english": "ski",
+        "hebrew": "לרכב על סקי"
+    },
+    {
+        "english": "skin",
+        "hebrew": "עור"
+    },
+    {
+        "english": "skirt",
+        "hebrew": "חצאית"
+    },
+    {
+        "english": "sky",
+        "hebrew": "שמיים"
+    },
+    {
+        "english": "sleep",
+        "hebrew": "לישון"
+    },
+    {
+        "english": "sleepy",
+        "hebrew": "עייף"
+    },
+    {
+        "english": "slice",
+        "hebrew": "חתיכה, לקחת חתיכה"
+    },
+    {
+        "english": "slide",
+        "hebrew": "להחלק"
+    },
+    {
+        "english": "slippers",
+        "hebrew": "שלמות"
+    },
+    {
+        "english": "slow",
+        "hebrew": "איטי"
+    },
+    {
+        "english": "small",
+        "hebrew": "קטן"
+    },
+    {
+        "english": "smile",
+        "hebrew": "חיוך, לחייך"
+    },
+    {
+        "english": "smoke",
+        "hebrew": "עישון"
+    },
+    {
+        "english": "snake",
+        "hebrew": "נחש"
+    },
+    {
+        "english": "snow",
+        "hebrew": "שלג"
+    },
+    {
+        "english": "snowball",
+        "hebrew": "כדור שלג"
+    },
+    {
+        "english": "snowflake",
+        "hebrew": "קרחון"
+    },
+    {
+        "english": "snowman",
+        "hebrew": "איש שלג"
+    },
+    {
+        "english": "so",
+        "hebrew": "אז"
+    },
+    {
+        "english": "soap",
+        "hebrew": "סבון"
+    },
+    {
+        "english": "socks",
+        "hebrew": "גרביים"
+    },
+    {
+        "english": "soft",
+        "hebrew": "רך"
+    },
+    {
+        "english": "soldier",
+        "hebrew": "חייל"
+    },
+    {
+        "english": "some",
+        "hebrew": "חלק"
+    },
+    {
+        "english": "someone",
+        "hebrew": "מישהו"
+    },
+    {
+        "english": "something",
+        "hebrew": "משהו"
+    },
+    {
+        "english": "sometimes",
+        "hebrew": "לפעמים"
+    },
+    {
+        "english": "son",
+        "hebrew": "בן"
+    },
+    {
+        "english": "song",
+        "hebrew": "שיר"
+    },
+    {
+        "english": "soon",
+        "hebrew": "בקרוב"
+    },
+    {
+        "english": "sorry",
+        "hebrew": "סליחה"
+    },
+    {
+        "english": "sound",
+        "hebrew": "קול"
+    },
+    {
+        "english": "soup",
+        "hebrew": "מרק"
+    },
+    {
+        "english": "south",
+        "hebrew": "דרום"
+    },
+    {
+        "english": "space",
+        "hebrew": "חלל"
+    },
+    {
+        "english": "speak",
+        "hebrew": "לדבר"
+    },
+    {
+        "english": "special",
+        "hebrew": "מיוחד"
+    },
+    {
+        "english": "spell",
+        "hebrew": "להבטיח"
+    },
+    {
+        "english": "spider",
+        "hebrew": "עכביש"
+    },
+    {
+        "english": "spoon",
+        "hebrew": "כף"
+    },
+    {
+        "english": "sport",
+        "hebrew": "ספורט"
+    },
+    {
+        "english": "spring",
+        "hebrew": "אביב"
+    },
+    {
+        "english": "square",
+        "hebrew": "ריבוע"
+    },
+    {
+        "english": "stairs",
+        "hebrew": "מדרגות"
+    },
+    {
+        "english": "stand",
+        "hebrew": "לעמוד"
+    },
+    {
+        "english": "star",
+        "hebrew": "כוכב"
+    },
+    {
+        "english": "start",
+        "hebrew": "להתחיל"
+    },
+    {
+        "english": "station",
+        "hebrew": "תחנה"
+    },
+    {
+        "english": "stay",
+        "hebrew": "להשאר"
+    },
+    {
+        "english": "steak",
+        "hebrew": "סטייק"
+    },
+    {
+        "english": "steal",
+        "hebrew": "לגנוב"
+    },
+    {
+        "english": "steam",
+        "hebrew": "אדים"
+    },
+    {
+        "english": "step",
+        "hebrew": "צעד"
+    },
+    {
+        "english": "stick",
+        "hebrew": "מקל"
+    },
+    {
+        "english": "still",
+        "hebrew": "עדיין"
+    },
+    {
+        "english": "stomach",
+        "hebrew": "בטן"
+    },
+    {
+        "english": "stone",
+        "hebrew": "אבן"
+    },
+    {
+        "english": "stop",
+        "hebrew": "לעצור"
+    },
+    {
+        "english": "store",
+        "hebrew": "חנות"
+    },
+    {
+        "english": "storm",
+        "hebrew": "סערה"
+    },
+    {
+        "english": "story",
+        "hebrew": "סיפור"
+    },
+    {
+        "english": "stove",
+        "hebrew": "תנור"
+    },
+    {
+        "english": "strange",
+        "hebrew": "מוזר"
+    },
+    {
+        "english": "street",
+        "hebrew": "רחוב"
+    },
+    {
+        "english": "strong",
+        "hebrew": "חזק"
+    },
+    {
+        "english": "student",
+        "hebrew": "תלמיד"
+    },
+    {
+        "english": "study",
+        "hebrew": "ללמוד"
+    },
+    {
+        "english": "submarine",
+        "hebrew": "צוללת"
+    },
+    {
+        "english": "succeed",
+        "hebrew": "להצליח"
+    },
+    {
+        "english": "such",
+        "hebrew": "כזה"
+    },
+    {
+        "english": "sugar",
+        "hebrew": "סוכר"
+    },
+    {
+        "english": "suit",
+        "hebrew": "חליפה"
+    },
+    {
+        "english": "summer",
+        "hebrew": "קיץ"
+    },
+    {
+        "english": "sun",
+        "hebrew": "שמש"
+    },
+    {
+        "english": "Sunday",
+        "hebrew": "יום ראשון"
+    },
+    {
+        "english": "sunny",
+        "hebrew": "שמשי"
+    },
+    {
+        "english": "supper",
+        "hebrew": "ערבונית"
+    },
+    {
+        "english": "sure",
+        "hebrew": "בטוח"
+    },
+    {
+        "english": "surf",
+        "hebrew": "גלשן"
+    },
+    {
+        "english": "swallow",
+        "hebrew": "לבלוע"
+    },
+    {
+        "english": "swan",
+        "hebrew": "ברבור"
+    },
+    {
+        "english": "swim",
+        "hebrew": "לשחות"
+    },
+    {
+        "english": "swimming",
+        "hebrew": "שחייה"
+    },
+    {
+        "english": "swing",
+        "hebrew": "נדנדה, לנדנד"
+    },
+    {
+        "english": "sword",
+        "hebrew": "חרב"
+    },
+    {
+        "english": "table",
+        "hebrew": "שולחן"
+    },
+    {
+        "english": "tail",
+        "hebrew": "זנב"
+    },
+    {
+        "english": "take",
+        "hebrew": "לקחת"
+    },
+    {
+        "english": "talk",
+        "hebrew": "לדבר"
+    },
+    {
+        "english": "tall",
+        "hebrew": "גבוה"
+    },
+    {
+        "english": "taste",
+        "hebrew": "טעם"
+    },
+    {
+        "english": "taxi",
+        "hebrew": "מונית"
+    },
+    {
+        "english": "tea",
+        "hebrew": "תה"
+    },
+    {
+        "english": "teach",
+        "hebrew": "ללמד"
+    },
+    {
+        "english": "teacher",
+        "hebrew": "מורה"
+    },
+    {
+        "english": "team",
+        "hebrew": "קבוצה"
+    },
+    {
+        "english": "tear",
+        "hebrew": "לקרוע"
+    },
+    {
+        "english": "telephone",
+        "hebrew": "טלפון"
+    },
+    {
+        "english": "television",
+        "hebrew": "טלוויזיה"
+    },
+    {
+        "english": "tell",
+        "hebrew": "לספר"
+    },
+    {
+        "english": "ten",
+        "hebrew": "עשר"
+    },
+    {
+        "english": "tennis",
+        "hebrew": "טניס"
+    },
+    {
+        "english": "tent",
+        "hebrew": "אוהל"
+    },
+    {
+        "english": "than",
+        "hebrew": "מאשר"
+    },
+    {
+        "english": "thank you",
+        "hebrew": "תודה"
+    },
+    {
+        "english": "that",
+        "hebrew": "זה"
+    },
+    {
+        "english": "the",
+        "hebrew": "ה"
+    },
+    {
+        "english": "their",
+        "hebrew": "שלהם"
+    },
+    {
+        "english": "them",
+        "hebrew": "אותם"
+    },
+    {
+        "english": "then",
+        "hebrew": "אז"
+    },
+    {
+        "english": "there",
+        "hebrew": "שם"
+    },
+    {
+        "english": "therefore",
+        "hebrew": "לכן"
+    },
+    {
+        "english": "these",
+        "hebrew": "אלה"
+    },
+    {
+        "english": "they",
+        "hebrew": "הם"
+    },
+    {
+        "english": "thick",
+        "hebrew": "עבה"
+    },
+    {
+        "english": "thin",
+        "hebrew": "דק"
+    },
+    {
+        "english": "thing",
+        "hebrew": "דבר"
+    },
+    {
+        "english": "think",
+        "hebrew": "לחשוב"
+    },
+    {
+        "english": "third",
+        "hebrew": "שלישי"
+    },
+    {
+        "english": "thirteen",
+        "hebrew": "שלושה עשר"
+    },
+    {
+        "english": "thirty",
+        "hebrew": "שלושים"
+    },
+    {
+        "english": "this",
+        "hebrew": "זה"
+    },
+    {
+        "english": "those",
+        "hebrew": "אלה"
+    },
+    {
+        "english": "though",
+        "hebrew": "אף על פי"
+    },
+    {
+        "english": "thousand",
+        "hebrew": "אלף"
+    },
+    {
+        "english": "three",
+        "hebrew": "שלוש"
+    },
+    {
+        "english": "throat",
+        "hebrew": "גרון"
+    },
+    {
+        "english": "through",
+        "hebrew": "דרך"
+    },
+    {
+        "english": "throw",
+        "hebrew": "לזרוק"
+    },
+    {
+        "english": "Thursday",
+        "hebrew": "יום חמישי"
+    },
+    {
+        "english": "thumb",
+        "hebrew": "אגודל"
+    },
+    {
+        "english": "thunder",
+        "hebrew": "רעם"
+    },
+    {
+        "english": "ticket",
+        "hebrew": "כרטיס"
+    },
+    {
+        "english": "tie",
+        "hebrew": "קשר"
+    },
+    {
+        "english": "tiger",
+        "hebrew": "נמר"
+    },
+    {
+        "english": "tight",
+        "hebrew": "צר"
+    },
+    {
+        "english": "till",
+        "hebrew": "עד"
+    },
+    {
+        "english": "time",
+        "hebrew": "זמן"
+    },
+    {
+        "english": "tin",
+        "hebrew": "בדיל"
+    },
+    {
+        "english": "today",
+        "hebrew": "היום"
+    },
+    {
+        "english": "toe",
+        "hebrew": "אצבע רגל"
+    },
+    {
+        "english": "together",
+        "hebrew": "יחד"
+    },
+    {
+        "english": "tomato",
+        "hebrew": "עגבניה"
+    },
+    {
+        "english": "tomorrow",
+        "hebrew": "מחר"
+    },
+    {
+        "english": "tongue",
+        "hebrew": "לשון"
+    },
+    {
+        "english": "tonight",
+        "hebrew": "הלילה"
+    },
+    {
+        "english": "too",
+        "hebrew": "גם"
+    },
+    {
+        "english": "tooth",
+        "hebrew": "שן"
+    },
+    {
+        "english": "top",
+        "hebrew": "עליון"
+    },
+    {
+        "english": "touch",
+        "hebrew": "מגע"
+    },
+    {
+        "english": "toward",
+        "hebrew": "לעבר"
+    },
+    {
+        "english": "tower",
+        "hebrew": "מגדל"
+    },
+    {
+        "english": "town",
+        "hebrew": "עיירה"
+    },
+    {
+        "english": "toy",
+        "hebrew": "צעצוע"
+    },
+    {
+        "english": "track",
+        "hebrew": "רצועה, נתיב"
+    },
+    {
+        "english": "train",
+        "hebrew": "רכבת"
+    },
+    {
+        "english": "tram",
+        "hebrew": "רכבת חשמלית"
+    },
+    {
+        "english": "travel",
+        "hebrew": "לנסוע"
+    },
+    {
+        "english": "tray",
+        "hebrew": "קופסא"
+    },
+    {
+        "english": "tree",
+        "hebrew": "עץ"
+    },
+    {
+        "english": "trip",
+        "hebrew": "טיול"
+    },
+    {
+        "english": "trouble",
+        "hebrew": "בעיה"
+    },
+    {
+        "english": "truck",
+        "hebrew": "משאית"
+    },
+    {
+        "english": "true",
+        "hebrew": "נכון"
+    },
+    {
+        "english": "trunk",
+        "hebrew": "חזה"
+    },
+    {
+        "english": "try",
+        "hebrew": "לנסות"
+    },
+    {
+        "english": "Tuesday",
+        "hebrew": "יום שלישי"
+    },
+    {
+        "english": "tunnel",
+        "hebrew": "מנהרה"
+    },
+    {
+        "english": "turn",
+        "hebrew": "לפנות"
+    },
+    {
+        "english": "twelve",
+        "hebrew": "שני עשר"
+    },
+    {
+        "english": "twenty",
+        "hebrew": "עשרים"
+    },
+    {
+        "english": "two",
+        "hebrew": "שתיים"
+    },
+    {
+        "english": "type",
+        "hebrew": "סוג"
+    },
+    {
+        "english": "umbrella",
+        "hebrew": "מטרייה"
+    },
+    {
+        "english": "uncle",
+        "hebrew": "דוד"
+    },
+    {
+        "english": "under",
+        "hebrew": "תחת"
+    },
+    {
+        "english": "understand",
+        "hebrew": "להבין"
+    },
+    {
+        "english": "unit",
+        "hebrew": "יחידה"
+    },
+    {
+        "english": "until",
+        "hebrew": "עד"
+    },
+    {
+        "english": "up",
+        "hebrew": "למעלה"
+    },
+    {
+        "english": "upon",
+        "hebrew": "על"
+    },
+    {
+        "english": "us",
+        "hebrew": "אנו"
+    },
+    {
+        "english": "use",
+        "hebrew": "להשתמש"
+    },
+    {
+        "english": "useful",
+        "hebrew": "שימושי"
+    },
+    {
+        "english": "usually",
+        "hebrew": "בדרך כלל"
+    },
+    {
+        "english": "vacation",
+        "hebrew": "חופשה"
+    },
+    {
+        "english": "vegetable",
+        "hebrew": "ירק"
+    },
+    {
+        "english": "very",
+        "hebrew": "מאוד"
+    },
+    {
+        "english": "village",
+        "hebrew": "כפר"
+    },
+    {
+        "english": "visit",
+        "hebrew": "לבקר"
+    },
+    {
+        "english": "voice",
+        "hebrew": "קול"
+    },
+    {
+        "english": "wait",
+        "hebrew": "לחכות"
+    },
+    {
+        "english": "wake",
+        "hebrew": "להתעורר"
+    },
+    {
+        "english": "walk",
+        "hebrew": "ללכת"
+    },
+    {
+        "english": "wall",
+        "hebrew": "קיר"
+    },
+    {
+        "english": "want",
+        "hebrew": "רוצה"
+    },
+    {
+        "english": "war",
+        "hebrew": "מלחמה"
+    },
+    {
+        "english": "warm",
+        "hebrew": "חם"
+    },
+    {
+        "english": "wash",
+        "hebrew": "לשטוף"
+    },
+    {
+        "english": "waste",
+        "hebrew": "פסולת"
+    },
+    {
+        "english": "watch",
+        "hebrew": "שעון"
+    },
+    {
+        "english": "water",
+        "hebrew": "מים"
+    },
+    {
+        "english": "waterfall",
+        "hebrew": "מפל"
+    },
+    {
+        "english": "wave",
+        "hebrew": "גל"
+    },
+    {
+        "english": "way",
+        "hebrew": "דרך"
+    },
+    {
+        "english": "we",
+        "hebrew": "אנו"
+    },
+    {
+        "english": "weak",
+        "hebrew": "חלש"
+    },
+    {
+        "english": "wear",
+        "hebrew": "ללבוש"
+    },
+    {
+        "english": "weather",
+        "hebrew": "מזג אוויר"
+    },
+    {
+        "english": "wedding",
+        "hebrew": "חתונה"
+    },
+    {
+        "english": "week",
+        "hebrew": "שבוע"
+    },
+    {
+        "english": "weekday",
+        "hebrew": "יום בשבוע"
+    },
+    {
+        "english": "weekend",
+        "hebrew": "סופ\"ש"
+    },
+    {
+        "english": "weigh",
+        "hebrew": "לשקול"
+    },
+    {
+        "english": "welcome",
+        "hebrew": "ברוך הבא"
+    },
+    {
+        "english": "well",
+        "hebrew": "בסדר, טוב"
+    },
+    {
+        "english": "west",
+        "hebrew": "מערב"
+    },
+    {
+        "english": "wet",
+        "hebrew": "רטוב"
+    },
+    {
+        "english": "whale",
+        "hebrew": "לווייתן"
+    },
+    {
+        "english": "what",
+        "hebrew": "מה"
+    },
+    {
+        "english": "wheel",
+        "hebrew": "גלגל"
+    },
+    {
+        "english": "when",
+        "hebrew": "מתי"
+    },
+    {
+        "english": "where",
+        "hebrew": "איפה"
+    },
+    {
+        "english": "which",
+        "hebrew": "איזה"
+    },
+    {
+        "english": "while",
+        "hebrew": "בזמן ש"
+    },
+    {
+        "english": "white",
+        "hebrew": "לבן"
+    },
+    {
+        "english": "who",
+        "hebrew": "מי"
+    },
+    {
+        "english": "whole",
+        "hebrew": "שלם"
+    },
+    {
+        "english": "whom",
+        "hebrew": "את מי"
+    },
+    {
+        "english": "whose",
+        "hebrew": "של מי"
+    },
+    {
+        "english": "why",
+        "hebrew": "למה"
+    },
+    {
+        "english": "wide",
+        "hebrew": "רחב"
+    },
+    {
+        "english": "wife",
+        "hebrew": "אישה"
+    },
+    {
+        "english": "wild",
+        "hebrew": "פראי"
+    },
+    {
+        "english": "will",
+        "hebrew": "ארצה"
+    },
+    {
+        "english": "win",
+        "hebrew": "לנצח"
+    },
+    {
+        "english": "wind",
+        "hebrew": "רוח"
+    },
+    {
+        "english": "window",
+        "hebrew": "חלון"
+    },
+    {
+        "english": "wine",
+        "hebrew": "יין"
+    },
+    {
+        "english": "winter",
+        "hebrew": "חורף"
+    },
+    {
+        "english": "wire",
+        "hebrew": "חוט"
+    },
+    {
+        "english": "wise",
+        "hebrew": "חכם"
+    },
+    {
+        "english": "wish",
+        "hebrew": "לאחל"
+    },
+    {
+        "english": "with",
+        "hebrew": "עם"
+    },
+    {
+        "english": "without",
+        "hebrew": "ללא"
+    },
+    {
+        "english": "woman",
+        "hebrew": "אישה"
+    },
+    {
+        "english": "wonderful",
+        "hebrew": "נפלא"
+    },
+    {
+        "english": "wood",
+        "hebrew": "עץ"
+    },
+    {
+        "english": "word",
+        "hebrew": "מילה"
+    },
+    {
+        "english": "work",
+        "hebrew": "עבודה"
+    },
+    {
+        "english": "world",
+        "hebrew": "עולם"
+    },
+    {
+        "english": "worm",
+        "hebrew": "תולעת"
+    },
+    {
+        "english": "worry",
+        "hebrew": "לדאוג"
+    },
+    {
+        "english": "worse",
+        "hebrew": "גרוע"
+    },
+    {
+        "english": "worst",
+        "hebrew": "הכי רע"
+    },
+    {
+        "english": "worth",
+        "hebrew": "שווה"
+    },
+    {
+        "english": "would",
+        "hebrew": "היה רוצה"
+    },
+    {
+        "english": "write",
+        "hebrew": "לכתוב"
+    },
+    {
+        "english": "wrong",
+        "hebrew": "לא נכון"
+    },
+    {
+        "english": "year",
+        "hebrew": "שנה"
+    },
+    {
+        "english": "yellow",
+        "hebrew": "צהוב"
+    },
+    {
+        "english": "yes",
+        "hebrew": "כן"
+    },
+    {
+        "english": "yesterday",
+        "hebrew": "אתמול"
+    },
+    {
+        "english": "yet",
+        "hebrew": "עדיין"
+    },
+    {
+        "english": "you",
+        "hebrew": "אתה"
+    },
+    {
+        "english": "young",
+        "hebrew": "צעיר"
+    },
+    {
+        "english": "your",
+        "hebrew": "שלך"
+    },
+    {
+        "english": "zero",
+        "hebrew": "אפס"
+    },
+    {
+        "english": "zoo",
+        "hebrew": "גן חיות"
+    }
+]

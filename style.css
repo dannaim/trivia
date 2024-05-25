@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    color: #333; /* Set the text color */
+    background-color: #f5f5f5; /* Set the background color */
+}
+
+#question {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#options {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    gap: 10px;
+    margin-bottom: 20px;
+}
+
+.option-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    color: #fff; /* Set the text color */
+    background-color: #007bff; /* Set the background color */
+}
+#next-btn {
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff; /* Set the text color */
+    background-color: #28a745; /* Set the background color */
+}
+
+#pronounce-btn {
+    padding: 15px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #fff; /* Set the text color */
+    background-color: #dc3545; /* Set the background color */
+    --timer-width: 100%;
+}
+
+
+
+
