@@ -8,9 +8,9 @@ document.addEventListener("DOMContentLoaded", function () {
     const options = document.querySelectorAll('.option-btn');
     const pronounceBtn = document.getElementById('pronounce-btn');
     const nextBtn = document.getElementById('next-btn');
-    const strikeElement = document.getElementById('strike');
+    const strikeElement = document.getElementById('Streak');
 
-    //load json file
+    //load //json
     const xhr = new XMLHttpRequest();
     xhr.open('GET', 'data.json', true);
     xhr.onload = function () {
@@ -64,27 +64,30 @@ document.addEventListener("DOMContentLoaded", function () {
         const correctAnswer = words[currentQuestionIndex].hebrew;
         if (selectedAnswer === correctAnswer) {
             streak++;
-            // Display feedback to the user for correct answer
-            const feedbackElement = document.getElementById('feedback');
-            if (feedbackElement) {
-                feedbackElement.textContent = "Correct!";
-                feedbackElement.style.color = "green";
-            }
+            document.getElementById('feedback').textContent = "Correct!";
+            document.getElementById('feedback').style.color = "green";
         } else {
             streak = 0;
-            // Display feedback to the user for incorrect answer
-            const feedbackElement = document.getElementById('feedback');
-            if (feedbackElement) {
-                feedbackElement.textContent = "Incorrect. The hebrew word for " + 
-                words[currentQuestionIndex].english + " is: " + correctAnswe;
-                
-                feedbackElement.style.color = "red";
-            }
+            document.getElementById('feedback').textContent = "INCORRECT.     " + words[currentQuestionIndex].english +  " = " + correctAnswer ;
+            document.getElementById('feedback').style.color = "red";
         }
         displayQuestion();
-        if (strikeElement) {
-            strikeElement.textContent = "Streak: " + streak;
+        strikeElement.textContent = "Streak: " + streak;
+    }
+
+    // Function to check the selected answer
+    function checkAnswer2(event) {
+        const selectedAnswer = event.target.textContent;
+        const correctAnswer = words[currentQuestionIndex].hebrew;
+        if (selectedAnswer === correctAnswer) {
+            streak++;
+            alert("Correct!");
+        } else {
+            streak = 0;
+            alert("Incorrect. The correct answer is: " + correctAnswer);
         }
+        displayQuestion();
+        strikeElement.textContent = "Streak: " + streak;
     }
 
     // Function to pronounce the current word
@@ -99,13 +102,13 @@ document.addEventListener("DOMContentLoaded", function () {
     nextBtn.addEventListener('click', displayQuestion);
 
 
-    let timerValue = 10;
+    let timerValue = 15;
     const timerElement = document.getElementById('timer-value');
 
     // Function to start the timer
     function startTimer() {
-        timerValue = 10;
-        timerInterval = setInterval(updateTimer, 1000);
+        timerValue = 15;
+        timerInterval = setInterval(updateTimer, 1500);
     }
 
     // Function to update the timer
@@ -129,7 +132,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
 
         clearInterval(timerInterval);
-        timerValue = 10;
+        timerValue = 15;
         timerElement.textContent = timerValue;
 
 
