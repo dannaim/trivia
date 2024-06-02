@@ -9,7 +9,7 @@
     },
     {
         "english": "visit",
-        "hebrew": "לנקר"
+        "hebrew": "לבקר"
     },
     {
         "english": "volleyball",
@@ -165,7 +165,7 @@
     },
     {
         "english": "than",
-        "hebrew": "- (n)"
+        "hebrew": "מאשר"
     },
     {
         "english": "thank you",
@@ -209,11 +209,11 @@
     },
     {
         "english": "there are",
-        "hebrew": "יש"
+        "hebrew": "ישנם"
     },
     {
         "english": "there is",
-        "hebrew": "יש"
+        "hebrew": "ישנו"
     },
     {
         "english": "these",
@@ -337,7 +337,7 @@
     },
     {
         "english": "sun",
-        "hebrew": "שכוש"
+        "hebrew": "שמש"
     },
     {
         "english": "Sunday",
@@ -801,7 +801,7 @@
     },
     {
         "english": "popcorn",
-        "hebrew": "תירס"
+        "hebrew": "פיצפוצי תירס"
     },
     {
         "english": "post office",
@@ -1037,7 +1037,7 @@
     },
     {
         "english": "seal",
-        "hebrew": "ציפור ים"
+        "hebrew": "כלב ים"
     },
     {
         "english": "season",
@@ -1116,10 +1116,6 @@
         "hebrew": "תפירה"
     },
     {
-        "english": "sex",
-        "hebrew": "מין"
-    },
-    {
         "english": "shadow",
         "hebrew": "צל"
     },
@@ -1161,11 +1157,11 @@
     },
     {
         "english": "shell",
-        "hebrew": "קליפה, ביצה"
+        "hebrew": "קליפה"
     },
     {
         "english": "shine",
-        "hebrew": "לזרוק אור, לזרוק ברק, להניף, להאיר"
+        "hebrew": "להאיר"
     },
     {
         "english": "ship",
@@ -1321,7 +1317,7 @@
     },
     {
         "english": "slippers",
-        "hebrew": "שלמות"
+        "hebrew": "נעלי בית"
     },
     {
         "english": "slow",
@@ -1353,7 +1349,7 @@
     },
     {
         "english": "snowflake",
-        "hebrew": "קרחון"
+        "hebrew": "פתית שלג"
     },
     {
         "english": "snowman",
@@ -1437,7 +1433,7 @@
     },
     {
         "english": "spell",
-        "hebrew": "להבטיח"
+        "hebrew": "לאיית"
     },
     {
         "english": "spider",
@@ -1921,7 +1917,7 @@
     },
     {
         "english": "tray",
-        "hebrew": "קופסא"
+        "hebrew": "מגש"
     },
     {
         "english": "tree",
@@ -2225,7 +2221,7 @@
     },
     {
         "english": "will",
-        "hebrew": "ארצה"
+        "hebrew": "רצון"
     },
     {
         "english": "win",
